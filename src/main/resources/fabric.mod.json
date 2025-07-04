@@ -22,7 +22,7 @@
 			"nathan.modid.LearningFabricDataGenerator"
 		],
 		"client":[
-"nathan.modid.LearningFabricClient.LearningFabricClient"
+"nathan.modid.LearningFabricClient"
 		]
 
 
